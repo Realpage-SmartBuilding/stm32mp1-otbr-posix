@@ -35,6 +35,7 @@ script_list = " \
     _ipforward \
     _nat64 \
     _otbr \
+    _dhcpv6_pd \
 "
 
 do_install() {

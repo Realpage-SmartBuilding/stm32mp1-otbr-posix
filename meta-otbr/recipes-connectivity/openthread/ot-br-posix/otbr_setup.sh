@@ -37,7 +37,7 @@
 . script_mp1/_ipforward
 . script_mp1/_nat64
 . script_mp1/_dns64
-#. script/_dhcpv6_pd
+. script/_dhcpv6_pd
 #. script/_network_manager
 #. script/_rt_tables
 #. script/_swapfile
